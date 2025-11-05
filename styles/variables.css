@@ -2,3 +2,19 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+
+--cover-image: url(../images/cover-image-dark.png);
+--bacgroud-color: rgba(0, 0, 40, 1);
+--accent-color: rgba(255, 0, 112, 1);
+--accent-text-color: rgba(255, 0, 112, 1);
+--card-title: rgba(0, 0, 40, 1);
+--card-text: rgba(241, 178, 206, 1);
+--logo-color: rgba(219, 0, 255, 1);
+--logo-shadow: rgba(255, 0, 112, 1);
+--link-effect: rgba(255, 0, 112, 1);
+--button-color:rgba(255, 0, 112, 1);
+--button-border-hover: rgba(255, 0, 112, 0.4);
+--indicator-color: rgba(255, 0, 112, 1);
+}
+
