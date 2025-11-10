@@ -9,8 +9,8 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-  --cover-image: url(../images/cover-image-dark.png);
-  --bacgroud-color: rgba(0, 0, 40, 1);
+--cover-image: url(../images/cover-image-dark.png);
+--bacgroud-color: rgba(0, 0, 40, 1);
 --accent-color: rgba(255, 0, 112, 1);
 --accent-text-color: rgba(255, 0, 112, 1);
 --card-title: rgba(0, 0, 40, 1);
@@ -18,7 +18,9 @@
 --logo-color: rgba(219, 0, 255, 1);
 --logo-shadow: rgba(255, 0, 112, 1);
 --link-effect: rgba(255, 0, 112, 1);
+--link-effect-focus: rgba(241, 178, 206, 1); 
 --button-color:rgba(255, 0, 112, 1);
+--button-underline-focus:rgba(255, 0, 112, 1);
 --button-border-hover: rgba(255, 0, 112, 0.4);
 --indicator-color: rgba(255, 0, 112, 1);
 
