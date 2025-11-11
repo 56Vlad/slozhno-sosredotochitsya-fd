@@ -24,3 +24,22 @@
 --button-border-hover:rgba(50, 49, 45, 0.4);
 --indicator-color: rgba(255, 0, 112, 0);
 }
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --cover-image: url(../images/cover-image-light.png);
+    --bacgroud-color: rgba(0, 0, 40, 1);
+    --accent-color: rgba(255, 141, 203, 1);
+    --accent-text-color: rgba(53, 52, 48, 1);
+    --card-title: rgba(53, 52, 48, 1);
+    --card-text: rgba(53, 52, 48, 1);
+    --logo-color: rgba(255, 194, 230, 1);
+    --logo-shadow:rgba(255, 0, 112, 1);
+    --link-effect: rgba(255, 141, 203, 1);
+    --link-effect-focus: rgba(53, 52, 48, 1); 
+    --button-color:rgba(53, 52, 48, 1);
+    --button-underline-focus:rgba(53, 52, 48, 1);
+    --button-border-hover:rgba(50, 49, 45, 0.4);
+    --indicator-color: rgba(255, 0, 112, 0);
+  }
+}
